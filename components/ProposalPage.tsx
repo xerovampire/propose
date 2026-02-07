@@ -8,7 +8,7 @@ interface ProposalPageProps {
 const phrases = [
   "No",
   "Naa kese bola tunne",
-  "Naa bola ab dekh tu moti hojayega",
+  "Naa bola ab dekh tu mota hojayega",
   "Firse na bola abhi teri mummy ko btati hu",
   "chal bhot huwa yes kr",
 ];
