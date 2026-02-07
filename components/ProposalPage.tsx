@@ -8,8 +8,8 @@ interface ProposalPageProps {
 const phrases = [
   "No",
   "Naa kese bola tunne",
-  "Naa bola ab dekh tu moti hojayegi",
-  "Firse na bola abhi teri mummy ko btata hu",
+  "Naa bola ab dekh tu moti hojayega",
+  "Firse na bola abhi teri mummy ko btati hu",
   "chal bhot huwa yes kr",
 ];
 
@@ -33,8 +33,8 @@ const ProposalPage: React.FC<ProposalPageProps> = ({ onYes }) => {
       >
         <div className="relative inline-block px-2">
              <h1 className="text-3xl md:text-4xl font-extrabold text-gray-700 leading-tight">
-              Bubu, would you please be<br />
-              <span className="text-valentine-darkPink">my girlfriend 🌹?</span>
+              Dudu, would you please be<br />
+              <span className="text-valentine-darkPink">my husband 🌹?</span>
             </h1>
         </div>
        
