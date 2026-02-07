@@ -14,7 +14,7 @@ const SuccessPage: React.FC<SuccessPageProps> = ({ onReset }) => {
           AWWWWWWWWW 🥳🥳🥳
         </h1>
         <p className="text-1xl md:text-2xl text-gray-600 font-bold leading-relaxed px-4">
-          THANKS FOR ACCEPTING BUBU, I LOVE YOU SO MUCH ♥️♥️ AND I ALWAYS WILL. YOU MAKE ME SO HAPPY😍😍.<br/>
+          THANKS FOR ACCEPTING DUDU, I LOVE YOU SO MUCH ♥️♥️ AND I ALWAYS WILL. YOU MAKE ME SO HAPPY😍😍.<br/>
           PLEASE ALWAYS BE <span className="text-valentine-darkPink"> MINE🎀 </span>
         </p>
       </div>
