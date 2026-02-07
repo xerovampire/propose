@@ -15,7 +15,7 @@ const WelcomePage: React.FC<WelcomePageProps> = ({ onNext }) => {
         className="relative w-64 h-64"
       >
          <img 
-            src="https://i.ibb.co/DgHKZtpq/bubududu-panda.gif" 
+            src="image.gif" 
             alt="bubududu panda" 
             className="w-full h-full object-contain drop-shadow-xl"
          />
@@ -23,10 +23,10 @@ const WelcomePage: React.FC<WelcomePageProps> = ({ onNext }) => {
 
       <div className="space-y-4">
         <h1 className="text-3xl font-extrabold text-valentine-darkPink drop-shadow-sm px-2">
-          Happy Propose Day Bubu 🎀🎀
+          Happy Propose Day Bubu ðŸŽ€ðŸŽ€
         </h1>
         <p className="text-lg text-gray-600 font-semibold px-4 leading-relaxed">
-          There's something I have been waiting to ask you 👉🏽👈🏽
+          There's something I have been waiting to ask you ðŸ‘‰ðŸ½ðŸ‘ˆðŸ½
         </p>
       </div>
 
