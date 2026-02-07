@@ -10,10 +10,10 @@ const SuccessPage: React.FC<SuccessPageProps> = ({ onReset }) => {
     <div className="flex flex-col items-center text-center space-y-10">
       
       <div className="space-y-8 pt-12">
-        <h1 className="text-6xl md:text-7xl font-extrabold text-gray-700">
+        <h1 className="text-4xl md:text-5xl font-extrabold text-gray-700">
           AWWWWWWWWW 🥳🥳🥳
         </h1>
-        <p className="text-3xl md:text-4xl text-gray-600 font-bold leading-relaxed px-4">
+        <p className="text-1xl md:text-2xl text-gray-600 font-bold leading-relaxed px-4">
           THANKS FOR ACCEPTING BUBU, I LOVE YOU SO MUCH ♥️♥️ AND I ALWAYS WILL. YOU MAKE ME SO HAPPY😍😍.<br/>
           PLEASE ALWAYS BE <span className="text-valentine-darkPink"> mine🎀 </span>
         </p>
