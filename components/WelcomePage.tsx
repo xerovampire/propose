@@ -23,7 +23,7 @@ const WelcomePage: React.FC<WelcomePageProps> = ({ onNext }) => {
 
       <div className="space-y-4">
         <h1 className="text-3xl font-extrabold text-valentine-darkPink drop-shadow-sm px-2">
-          Happy Propose Day Bubu 🎀🎀
+          Happy Propose Day Dudu 🎀🎀
         </h1>
         <p className="text-lg text-gray-600 font-semibold px-4 leading-relaxed">
           There's something I have been waiting to ask you 👉🏽👈🏽
