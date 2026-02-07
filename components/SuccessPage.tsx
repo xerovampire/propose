@@ -11,11 +11,11 @@ const SuccessPage: React.FC<SuccessPageProps> = ({ onReset }) => {
       
       <div className="space-y-8 pt-12">
         <h1 className="text-6xl md:text-7xl font-extrabold text-gray-700">
-          Yayy! Thank you!
+          AWWWWWWWWW 🥳🥳🥳
         </h1>
         <p className="text-3xl md:text-4xl text-gray-600 font-bold leading-relaxed px-4">
-          I love you so much!<br/>
-          You make me the <span className="text-valentine-darkPink">happiest!</span>
+          THANKS FOR ACCEPTING BUBU, I LOVE YOU SO MUCH ♥️♥️ AND I ALWAYS WILL. YOU MAKE ME SO HAPPY😍😍.<br/>
+          PLEASE ALWAYS BE <span className="text-valentine-darkPink"> mine🎀 </span>
         </p>
       </div>
 
